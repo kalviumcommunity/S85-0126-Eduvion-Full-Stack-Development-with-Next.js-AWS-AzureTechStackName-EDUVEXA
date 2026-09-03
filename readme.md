@@ -317,4 +317,3 @@ For detailed setup, API endpoints, testing, and security best practices, see [FI
 
 ---
 
-> *"You're not just building an app — you're learning how the modern web runs."*
